@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .img-logo{
+        height: 30px;
+    }
+    .imagen-uno{
+        padding: 20px 0px;
+    }
+    .tam-likes{
+        width: 90%;
+    }
+}
